@@ -1,4 +1,7 @@
-# aura ✨
+# Aura 
+
+Piccolo deserve all the aura (and others too)
+
 
 ASCII portraits in your terminal.
 
@@ -32,6 +35,8 @@ No Python needed for the first three.
 | `--crop L T R B` | zoom in, 0-1 fractions | none |
 | `--out FILE` | also save plain text | - |
 
+
+## Example
 ```bash
 aura --piccolo -1 --width 200 --contrast 1.8 --color
 aura --list
@@ -76,3 +81,6 @@ Want a character to always look its best? Add per-picture defaults
 pip install -e ".[dev]"
 pytest
 ```
+
+## License
+It's open source, be creative and change however you want 
