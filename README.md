@@ -1,13 +1,11 @@
 # Aura 
 
-Piccolo deserve all the aura (and others too)
+Piccolo deserves all the aura (and others too)
 
+![My Image](./pic.webp)
 
 ASCII portraits in your terminal.
 
-```bash
-aura --piccolo -1
-```
 
 ## Install (pick whatever you like)
 
